@@ -9,12 +9,6 @@ NumberOperations: Содержит методы для чтения чисел �
 NumberOperationsTest: JUnit тесты для класса NumberOperations для обеспечения корректности операций.
 PerformanceTest: Измеряет производительность операции суммирования на списках разного размера.
 
-Файлы и директории
-src/main/java/com/example/NumberOperations.java
-src/test/java/com/example/NumberOperationsTest.java
-src/main/java/com/example/PerformanceTest.java
-resources/numbers.txt
-
 Использование
 NumberOperations
 Класс NumberOperations предоставляет следующие методы:
